@@ -23,9 +23,9 @@ echo $i" |"$pu" Contack Gmail :"$ku" Pecintauniker23@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
-echo $i"|"$me" 1"$i" |"$cy" BRUTEFORCE FB PHP        "$i"|"$i"    |"$cy" B"$i" |"
-echo $i"|"$me" 2"$i" |"$cy" BRUTEFORCE FB BR1G4D3    "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me" 3"$i" |"$cy" BRUTEFORCE FB iqbalz     "$i"|"$i"    |"$cy" N"$i" |"
+echo $i"|"$me" 1"$i" |"$cy" UNFRIEND Facebook        "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me" 2"$i" |"$cy"  BOOM WHATSAPPS          "$i"|"$i"    |"$cy" E"$i" |"
+echo $i"|"$me" 3"$i" |"$cy" AUTO REPORT FACEBOOK     "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"|"$me" 4"$i" |"$cy" BRUTEFORCE FB MBF        "$i"|"$i"    |"$cy" G"$i" |"
 echo $i"|"$me" 5"$i" |"$cy" FACEBRUTE N1ght420       "$i"|"$i"    |"$cy" K"$i" |"
 echo $i"|"$me" 6"$i" |"$cy" BRUTEFORCE FB ( root )   "$i"|"$i"    |"$cy" E"$i" |"
@@ -56,9 +56,10 @@ then
 clear
 figlet -f slant "W A I T CUK"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/fbbrute
-cd fbbrute
-php fb.php
+git clone https://github.com/xHak9x/fbi.git 
+cd fbi
+ pip2 install -r requirements.txt 
+python2 fbi.py 
 fi
 
 if [ $pil = 2 ]
@@ -66,9 +67,9 @@ then
 clear
 figlet -f slant "W A I T CUK"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/Fb-Cracker-v.3
-cd Fb-Cracker-v.3
-python2 crack.py
+git clone https://github.com/siputra12/prank
+cd prank
+php wa.php
 fi
 
 if [ $pil = 3 ]
@@ -76,9 +77,10 @@ then
 clear
 figlet -f slant "W A I T CUK"|lolcat
 sleep 1
-git clone https://github.com/IqbalzNoobs/fb-brute
-cd fb-brute
-python2 brute.py
+git clone https://github.com/IlayTamvan/Report
+cd Report
+unzip Report.zip
+python2 Report.py
 fi
 
 if [ $pil = 4 ]
