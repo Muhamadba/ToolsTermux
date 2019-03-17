@@ -1,2 +1,2 @@
 # ToolsTermux
-toolsTermux
+ToolsTermux
